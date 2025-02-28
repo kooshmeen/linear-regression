@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E032] Syntax Error: /home/cosmin/Desktop/Facultate/pp/teme/tema1/src/main/scala/Matrix.scala:98:16 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m98 |[0m      [33mcase[0m Some([33mval[0m) => {[0m
+[0m[[0m[31merror[0m] [0m[0m   |                [31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                pattern expected[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E018] Syntax Error: /home/cosmin/Desktop/Facultate/pp/teme/tema1/src/main/scala/Matrix.scala:99:29 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m99 |[0m        [33mval[0m [36mdata[0m = List.fill([33mval[0m)(List.fill([33mval[0m)([31m0.0[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             [31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                             expression expected but [31mval[0m found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E018] Syntax Error: /home/cosmin/Desktop/Facultate/pp/teme/tema1/src/main/scala/Matrix.scala:99:44 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m99 |[0m        [33mval[0m [36mdata[0m = List.fill([33mval[0m)(List.fill([33mval[0m)([31m0.0[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                            [31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                       expression expected but [31mval[0m found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /home/cosmin/Desktop/Facultate/pp/teme/tema1/src/main/scala/Matrix.scala:98:15 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m98 |[0m      [33mcase[0m Some([33mval[0m) => {[0m
+[0m[[0m[31merror[0m] [0m[0m   |               [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |           Values of types Null and Int cannot be compared with == or !=[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /home/cosmin/Desktop/Facultate/pp/teme/tema1/src/main/scala/Matrix.scala:99:28 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m99 |[0m        [33mval[0m [36mdata[0m = List.fill([33mval[0m)(List.fill([33mval[0m)([31m0.0[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            Found:    Null[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /home/cosmin/Desktop/Facultate/pp/teme/tema1/src/main/scala/Matrix.scala:99:43 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m99 |[0m        [33mval[0m [36mdata[0m = List.fill([33mval[0m)(List.fill([33mval[0m)([31m0.0[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                           [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                           Found:    Null[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                           Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
